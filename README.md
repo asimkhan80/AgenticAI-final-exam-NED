@@ -1,4 +1,16 @@
-# Console-Based To-Do Application
+---
+title: AgenticAI Final Exam NED
+emoji: ✅
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: 4.0.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
+# To-Do Application - Final Exam
 
 **Course:** Fundamental of Agentic AI - NED PGD
 **Title:** Final Exam
